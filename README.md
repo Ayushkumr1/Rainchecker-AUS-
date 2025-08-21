@@ -91,8 +91,6 @@ This project implements machine learning models to predict rainfall in Australia
 ## Author
 **Ayush Kumar**
 
-## License
-This project is open source and available under the MIT License.
 
 ## Future Improvements
 - Implement deep learning models (Neural Networks)
@@ -100,3 +98,4 @@ This project is open source and available under the MIT License.
 - Try ensemble methods combining multiple models
 - Implement cross-validation for better model evaluation
 - Add real-time prediction capabilities
+
